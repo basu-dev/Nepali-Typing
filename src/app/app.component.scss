@@ -1,0 +1,15 @@
+img {
+  height: 100%;
+  width: 100%;
+  background: grey;
+}
+div {
+  height: 100%;
+  width: 100%;
+  background: #bbb;
+  color: #555;
+  font-size: 2rem;
+  font-weight: 600;
+  display: grid;
+  place-content: center;
+}
